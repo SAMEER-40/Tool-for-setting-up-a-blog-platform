@@ -22,7 +22,7 @@ Welcome to the Awesome Blog Platform, a tool that empowers you to effortlessly s
 Follow these steps to get started with the Awesome Blog Platform:
 
 1. **Installation:**
-   - Clone the repository: `git clone https://github.com/yourusername/awesome-blog-platform.git`
+   - Clone the repository: `git clone https://github.com/yourusername/Tool-for-setting-up-a-blog-platform`
    - Navigate to the project directory: `cd awesome-blog-platform`
    - Install dependencies: `pip install -r requirements.txt`
 
